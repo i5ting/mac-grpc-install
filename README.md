@@ -1,4 +1,6 @@
 # mac-grpc-install
+
+fuck GFW!
  
 [![npm version](https://badge.fury.io/js/mgi.svg)](http://badge.fury.io/js/mgi)
 
